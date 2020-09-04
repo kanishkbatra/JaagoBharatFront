@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Proza+Libre:wght@400;500&family=Roboto&display=swap');
+.card{
+    margin-top: 120px;
+    margin-left:10%;
+    margin-right: 10%;
+}
+
+.color{
+    color: #152F4F;
+}
+
+.card-heade{
+    background-color: #152F4F;
+    color: white;
+    font-size: 2.5em;
+    font-family: 'Proza Libre', sans-serif;
+    font-weight: 500;
+}
+
+.card-title{
+    font-size: 1.9em;
+    font-family: 'Proza Libre', sans-serif;
+    font-weight: 400;
+}
+
+.card-text{
+    font-size: 1.40em;
+    font-family: 'Roboto', sans-serif;
+}
+
+#colum{
+    margin-bottom: 2%;
+}
+
+.youtube{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Roboto', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+#texts{
+    font-size: 1em !important;
+}
